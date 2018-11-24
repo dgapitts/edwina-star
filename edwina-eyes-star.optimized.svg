@@ -1,0 +1,19 @@
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="63.403mm" width="63.404mm" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 224.65939 224.65565">
+ <defs>
+  <filter id="b" style="color-interpolation-filters:sRGB" height="1.168" width="1.168" y="-0.084" x="-0.084">
+   <feGaussianBlur stdDeviation="5.2351792"/>
+  </filter>
+  <filter id="a" style="color-interpolation-filters:sRGB" height="1.12" width="1.12" y="-0.06" x="-0.06">
+   <feGaussianBlur stdDeviation="1.9999999"/>
+  </filter>
+ </defs>
+ <g transform="translate(-282.11 -448.62)">
+  <g fill-rule="evenodd">
+   <g transform="translate(84.52 18.538)">
+    <path style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;image-rendering:auto" d="m309.93 430.4c14.198 88.175 23.606 98.006 112.01 112.01-86.488 10.245-97.287 20.08-112.01 112.01-8.0119-90.751-18.625-96.63-112.01-112.01 92.954-11.78 100.3-22.993 112.01-112.01z" stroke="#75e914" stroke-width="4" fill="#a1f55c"/>
+    <path style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;image-rendering:auto" d="m309.92 467.62c9.4795 58.873 15.762 65.437 74.788 74.788-57.747 6.8404-64.958 13.408-74.788 74.788-5.3494-60.594-12.436-64.519-74.788-74.788 62.064-7.8653 66.969-15.352 74.788-74.788z" filter="url(#b)" fill="#dafa3c"/>
+   </g>
+   <path style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;image-rendering:auto" d="m394.44 520.95c5.0701 31.488 8.4301 34.999 40 40-30.886 3.6585-34.742 7.1709-40 40-2.8611-32.408-6.6512-34.507-40-40 33.194-4.2067 35.818-8.211 40-40z" filter="url(#a)" fill="#d7fdb7"/>
+  </g>
+ </g>
+</svg>
