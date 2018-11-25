@@ -1,7 +1,7 @@
 #  Color Palette by Paletton.com
 Palette URL: http://paletton.com/#uid=5270u0kjXPi8LYaeYU2omJvtdC9
 
-![Screenshot of edwina-color-eye-picker from Paletton.com](edwina-color-eye-picker..png)
+![Screenshot of edwina-color-eye-picker from Paletton.com](edwina-color-eye-picker.png)
 
 ## Primary color:
 
